@@ -12,3 +12,4 @@ dat9
 dat10
 Šī ir lokālā izmainā
 Jā, tā ir!
+vg
